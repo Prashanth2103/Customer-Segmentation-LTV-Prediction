@@ -19,5 +19,3 @@ Segment customers and predict LTV to drive marketing and retention strategies.
 - Personalised campaign targeting improved simulated retention by 9%
 - Identified high-value vs churn-risk segments
 
-## Cluster Plot Example
-![Customer Clusters](images/customer_clusters.png)
